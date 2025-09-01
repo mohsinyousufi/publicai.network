@@ -8,12 +8,12 @@ description: A coalition building AI as public infrastructure.
 
 ## What is public AI?
 
-Public AI is **AI as public infrastructure**: provisioned like electricity, parks, roads, libraries, or the Internet itself.
+Public AI is **AI as public infrastructure**: provisioned like electricity, water, roads, libraries, or the Internet itself.
 
 - Public AI is **publicly accessible**: ensuring AI delivers benefits to all.
 - Public AI is **publicly accountable**: ensuring AI reflects society's values.
 - Public AI creates **permanent public goods**: ensuring AI is a reliable foundation.
-- Public AI is being designed and built **right now** - all around the world.
+- Public AI is being designed and built **right now** — all around the world.
 
 [Learn more about our definition](https://publicai.network/whitepaper){:target="_blank" rel="noopener" class="button"}
 
@@ -22,7 +22,7 @@ Public AI is **AI as public infrastructure**: provisioned like electricity, park
 - Limited public capacity in AI is stifling our collective capacity to shape the direction of society.
 - AI is becoming essential infrastructure, like roads and water pipelines - fitting for the public sector.
 - AI systems are growing in power and should reflect society's values, not the values of shareholders.
-- Private companies have a head start - without investment in public capacity now, the gap will grow.
+- Private companies have a head start. Without investment in public capacity now, the gap will grow.
 
 [Learn more about the policy case here](https://publicai.network/whitepaper){:target="_blank" rel="noopener" class="button"}
 
@@ -36,7 +36,7 @@ The **Public AI Network** (PAINT) is a growing coalition working to bring about 
 - Organize the broader movement for public AI
 
 We host a Slack community which connects together experts from leading public AI labs, projects, and civil society groups. 
-We also host many [events](#Events) (see below) and a regular [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), [Lawrence Lessig](https://archive.org/details/public-ai-lessig), and [Kim Stanley Robinson](https://www.youtube.com/watch?v=qQe7H9CY5Bw).
+We also host many [events](#events) (see below) and a regular [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), [Lawrence Lessig](https://archive.org/details/public-ai-lessig), and [Kim Stanley Robinson](https://www.youtube.com/watch?v=qQe7H9CY5Bw).
 
 ## Learn more
 
@@ -74,7 +74,7 @@ Upcoming events are being planned in Zurich and Los Angeles.
 
 | Date | Event | Location |
 |------|-------|----------|
-| Jul 31, 2025 | Public AI: Policy, Community, and the Future of National Labs at [TPC 2025](https://tpc25.org){:target="_blank" rel="noopener"} | San Jose, California |
+| Jul 31, 2025 | Public AI: Policy, Community, & the Future of National Labs. [TPC 2025](https://tpc25.org){:target="_blank" rel="noopener"} | San Jose, CA |
 | Jul 16, 2025 | [Oh Canada! A Public AI Happy Hour](https://lu.ma/7rjoaxts){:target="_blank" rel="noopener"} at ICML 2025 | Vancouver, Canada |
 | Apr 26, 2025 | [Public AI Dinner & Salon](https://lu.ma/6zeopix2){:target="_blank" rel="noopener"} at ICLR 2025 | Singapore |
 | Apr 24-25, 2025 | Commercializing Public AI at Barcelona Supercomputing Center | Barcelona, Spain |
@@ -94,12 +94,12 @@ Upcoming events are being planned in Zurich and Los Angeles.
 | Nov 16, 2023 | [Public & Civic AI Social #2](https://lu.ma/zo0vnony){:target="_blank" rel="noopener"} | Newspeak House |
 | Oct 17, 2023 | [Public & Civic AI Social #1](https://lu.ma/public-civic-ai-social){:target="_blank" rel="noopener"} | Newspeak House |
 | Sep 21, 2023 | [Talk at AI: Ethical Paths Forward](https://archive.org/details/dweb-meetup-september-2023-ai-ethical-paths-forward){:target="_blank" rel="noopener"} | Internet Archive |
-| Sep 14, 2023 | [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527){:target="_blank" rel="noopener"} | NYU's Engelberg Center |
+| Sep 14, 2023 | [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527){:target="_blank" rel="noopener"} | NYU Engelberg Ctr |
 | Jul 3-10, 2023 | [AI Palace 2023](https://www.aipalace.org/){:target="_blank" rel="noopener"} | Bückeburg Palace |
 
 ## Acknowledgements
 
-A [wide range of people](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit#heading=h.v36dq6wln0nk){:target="_blank" rel="noopener"} have contributed ideas and time to the movement for public AI. We gratefully acknowledge operational support by [Metagov](https://metagov.org){:target="_blank" rel="noopener"}, [Aspen Digital](https://www.aspendigital.org/){:target="_blank" rel="noopener"}, [Open Future](https://openfuture.eu/){:target="_blank" rel="noopener"}, [Public Knowledge](https://publicknowledge.org){:target="_blank" rel="noopener"}, [Code for Science and Society](https://www.codeforsociety.org/){:target="_blank" rel="noopener"}, [Mozilla](https://mozilla.org){:target="_blank" rel="noopener"}, the [Internet Archive](https://archive.org){:target="_blank" rel="noopener"}, [Chatham House](https://www.chathamhouse.org/){:target="_blank" rel="noopener"}, the [Berkman Klein Center](https://cyber.harvard.edu/), the [Bertelsmann Foundation](https://www.bfna.org/){:target="_blank" rel="noopener"}, the [Patrick J. McGovern Foundation](https://www.mcgovern.org/), and many more organizations.
+A [wide range of people](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit#heading=h.v36dq6wln0nk){:target="_blank" rel="noopener"} have contributed ideas and time to the movement for public AI. We gratefully acknowledge operational support by [Metagov](https://metagov.org){:target="_blank" rel="noopener"}, [Aspen Digital](https://www.aspendigital.org/){:target="_blank" rel="noopener"}, [Open Future](https://openfuture.eu/){:target="_blank" rel="noopener"}, [Public Knowledge](https://publicknowledge.org){:target="_blank" rel="noopener"}, [Code for Science and Society](https://www.codeforsociety.org/){:target="_blank" rel="noopener"}, [Mozilla](https://mozilla.org){:target="_blank" rel="noopener"}, the [Rockefeller Foundation](https://www.rockefellerfoundation.org/), the [Internet Archive](https://archive.org){:target="_blank" rel="noopener"}, [Chatham House](https://www.chathamhouse.org/){:target="_blank" rel="noopener"}, the [Berkman Klein Center](https://cyber.harvard.edu/), the [Bertelsmann Foundation](https://www.bfna.org/){:target="_blank" rel="noopener"}, the [Patrick J. McGovern Foundation](https://www.mcgovern.org/), and many more organizations.
 
 ## License
  Work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank" rel="noopener"}.
