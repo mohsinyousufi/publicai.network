@@ -4,9 +4,9 @@ These are regular contributors to public AI that have some role in maintaining t
 
 1. SJ Klein (@metasj)
 2. Nick Vincent (@nickmvincent)
-3. Nick Garcia
+3. Nick Garcia (@nickgarcia)
 4. Joshua Tan (@thelastjosh)
-5. B Cavello
+5. B Cavello (@b-cavello)
 6. Eleanor Tursman
 7. Alex Krasodomski
 8. Jake Hirsch-Allen
@@ -16,3 +16,5 @@ These are regular contributors to public AI that have some role in maintaining t
 12. Brandon Jackson
 13. Meredith Whipple
 14. Luca Cominassi
+15. Gideon Lichfield
+16. Katherine Gorman
