@@ -25,7 +25,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   gap: 0;
   position: relative;
   flex: 1;
-  min-width: 220px;
+  min-width: 230px;
   max-width: 250px;
 }
 
@@ -337,8 +337,8 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   }
   
   .card {
-    width: 260px;
-    height: 140px;
+    width: 220px;
+    height: 147px;
   }
   
   .org-logo {
@@ -411,6 +411,19 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
+<div class="card">
+  <div class="tab">Avani Wildani</div>
+  <div class="content">
+    <div class="avatar c3">AW</div>
+    <div class="name">Avani Wildani</div>
+    <div class="aff">Cloudflare</div>
+    <div class="details">
+      <b>Focus:</b> Data pipelines, distributed systems
+    </div>
+    <div class="joined">2023</div>
+  </div>
+</div>
+
     <div class="card">
       <div class="tab">B Cavello</div>
       <div class="content">
@@ -479,6 +492,19 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
      </div>
     </div>
 
+<div class="card">
+  <div class="tab">David Pham</div>
+  <div class="content">
+    <div class="avatar c6">DP</div>
+    <div class="name">David Pham</div>
+    <div class="aff">Simon Fraser University</div>
+    <div class="details">
+      <b>Focus:</b> Data economics, safety
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
     <div class="card">
       <div class="tab">Diane Coyle</div>
       <div class="content">
@@ -494,6 +520,19 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
+<div class="card">
+  <div class="tab">Don Means</div>
+  <div class="content">
+    <div class="avatar c5">DM</div>
+    <div class="name">Don Means</div>
+    <div class="aff">Gigabit Libraries Network</div>
+    <div class="details">
+      <b>Focus:</b> Libraries, digital infrastructure
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
     <div class="card">
       <div class="tab">Eleanor Tursman</div>
       <div class="content">
@@ -508,13 +547,26 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
-     <div class="drawer-front">
+    <div class="drawer-front">
       <div class="drawer-label">MEMBERS A-E</div>
     </div>
   </div>
 
 <!-- F-L -->
   <div class="catalog-column">
+
+<div class="card">
+  <div class="tab">Felix Sieker</div>
+  <div class="content">
+    <div class="avatar c3">FS</div>
+    <div class="name">Felix Sieker</div>
+    <div class="aff">Bertelsmann Foundation</div>
+    <div class="details">
+      <b>Focus:</b> Common good, social policy, innovation strategy
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
 
     <div class="card">
       <div class="tab">Flynn Devine</div>
@@ -547,18 +599,43 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     </div>
 
 <div class="card">
+  <div class="tab">Jacob Taylor</div>
+  <div class="content">
+    <div class="avatar c1">JT</div>
+    <div class="name">Jacob Taylor</div>
+    <div class="aff">Brookings Institution</div>
+    <div class="details">
+      <b>Focus:</b> Collective intelligence, sustainable development
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
+<div class="card">
   <div class="tab">Jake Hirsch-Allen</div>
   <div class="content">
     <div class="avatar c3">JH</div>
     <div class="name">Jake Hirsch-Allen</div>
     <div class="aff">The Dais</div>
     <div class="details">
-    <b>Focus:</b> Canadian policy
+    <b>Focus:</b> Canadian policy, partnerships
     </div>
     <div class="joined">2024</div>
   </div>
 </div>
 
+<div class="card">
+  <div class="tab">Joseph Low</div>
+  <div class="content">
+    <div class="avatar c4">JL</div>
+    <div class="name">Joseph Low</div>
+    <div class="aff">Product Design</div>
+    <div class="details">
+      <b>Focus:</b> Product design
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
 
     <div class="card">
       <div class="tab">Joshua Tan</div>
@@ -601,6 +678,32 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 </div>
 
 <div class="card">
+  <div class="tab">Larry Williams</div>
+  <div class="content">
+    <div class="avatar c2">LW</div>
+    <div class="name">Larry Williams</div>
+    <div class="aff">UnionBase</div>
+    <div class="details">
+      <b>Focus:</b> Labor and economics
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="tab">Lorelei Kelly</div>
+  <div class="content">
+    <div class="avatar c1">LK</div>
+    <div class="name">Lorelei Kelly</div>
+    <div class="aff">Smart Congress</div>
+    <div class="details">
+      <b>Focus:</b> Democracy, government modernization
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
+<div class="card">
   <div class="tab">Luca Cominassi</div>
   <div class="content">
     <div class="avatar c5">LC</div>
@@ -614,7 +717,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 </div>
 
     <div class="drawer-front">
-      <div class="drawer-label">MEMBERS E-L</div>
+      <div class="drawer-label">MEMBERS F-L</div>
     </div>
  </div>
 
@@ -637,6 +740,19 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="joined">Season 2</div>
       </div>
     </div>
+
+<div class="card">
+  <div class="tab">Max Gahntz</div>
+  <div class="content">
+    <div class="avatar c4">MG</div>
+    <div class="name">Max Gahntz</div>
+    <div class="aff">Mozilla</div>
+    <div class="details">
+      <b>Focus:</b> AI policy
+    </div>
+    <div class="joined">2025</div>
+  </div>
+</div>
 
 <div class="card">
   <div class="tab">Melissa Regan</div>
@@ -789,6 +905,22 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     <div class="joined">2024</div>
   </div>
 </div>
+
+    <div class="card">
+      <div class="tab">Bruce Schneier</div>
+      <div class="content">
+        <div class="avatar c5">BS</div>
+        <div class="name">Bruce Schneier</div>
+        <div class="aff">Harvard</div>
+        <div class="details">
+          <b>Seminar:</b>
+          • <a href="https://archive.org/details/public-ai-schneier">Public options for AI</a> (<a href="https://docs.google.com/document/d/1j0foQVDe0ELYJCrZxOM7ueSiXFVvWr84Hycl2ZdeWFE/edit">summary</a>)<br>
+          • January 9, 2024<br/>
+          <b>Focus:</b> Security, public interest technology
+        </div>
+        <div class="joined">Season 1</div>
+      </div>
+    </div>
 
     <div class="card">
       <div class="tab">David Bau</div>
@@ -1113,22 +1245,6 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     </div>
 
     <div class="card">
-      <div class="tab">Bruce Schneier</div>
-      <div class="content">
-        <div class="avatar c5">BS</div>
-        <div class="name">Bruce Schneier</div>
-        <div class="aff">Harvard</div>
-        <div class="details">
-          <b>Seminar:</b>
-          • <a href="https://archive.org/details/public-ai-schneier">Public options for AI</a> (<a href="https://docs.google.com/document/d/1j0foQVDe0ELYJCrZxOM7ueSiXFVvWr84Hycl2ZdeWFE/edit">summary</a>)<br>
-          • January 9, 2024<br/>
-          <b>Focus:</b> Security, public interest technology
-        </div>
-        <div class="joined">Season 1</div>
-      </div>
-    </div>
-
-    <div class="card">
       <div class="tab">Ted Chiang</div>
       <div class="content">
         <div class="avatar c3">TC</div>
@@ -1175,7 +1291,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="joined">Season 2</div>
       </div>
     </div>
-    
+
     <div class="drawer-front">
       <div class="drawer-label">SPEAKERS M-Z</div>
     </div>
@@ -1184,6 +1300,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 </div>
 
 *Other facilitators and speakers at past Public AI events include:* 
+* [*AI in the Agencies*](https://www.aspendigital.org/event/building-a-more-public-ai-ecosystem/) panel, Library of Congress, 2024-08-11: Travis Hoppe (AI R&D, White House OSTP), Victoria Houed (AI Policy, Commerce; now at POPVOX), Zach  Whitman (Chief AI Officer, GSA).
 * [**Public AI Congress**](https://www.ai-inthecity.ens.psl.eu/en/programme/67892dde5474c438e5a4c5b0), Paris, 2025-02-11: Adriana Groh, [Sovereign Tech Agency](https://www.sovereign.tech/) (Germany); Alexander Ilic, ETH AI Center (Switzerland); Marta Villegas, BSC (Spain); Petri Myllymäki, Ellis Institute (Finland) 
 * [**AI Action II**](https://docs.google.com/document/d/1IyP2jGob6Zxp1V7jjN1Ax--r45FHGYBgDhK31eoMNVU/edit?tab=t.0), Fey, 2025-02-12/13: Brewster Kahle (Internet Archive), Peter Wang (Anaconda), Primavera De Filippi (Alien), Pedro Ortiz Suarez (Common Crawl), Vincent Ginis (VUB)
 
@@ -1196,59 +1313,66 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 <div class="org-grid">
     <div class="org-row">
       <div class="org-logo" title="Metagov - Computational governance research">
-        <a href="https://metagov.org" style="color: #4a90e2;">MG</a>
+        <a href="https://metagov.org" style="color: #49e;">MG</a>
       </div>
       <div class="org-logo" title="Aspen Digital - Tech policy and digital rights">
-        <a href="https://www.aspendigital.org/"  style="color: #e94b3c;">AD</a>
+        <a href="https://www.aspendigital.org/"  style="color: #e54;">AD</a>
       </div>
       <div class="org-logo" title="Public Knowledge - Open internet advocacy">
-        <a href="https://publicknowledge.org"  style="color: #f39c12;">PK</a>
+        <a href="https://publicknowledge.org"  style="color: #fa1;">PK</a>
       </div>
       <div class="org-logo" title="Chatham House - International affairs think tank">
-        <a href="https://chathamhouse.org"  style="color: #2c3e50;">CH</a>
+        <a href="https://chathamhouse.org"  style="color: #579;">CH</a>
       </div>
+    </div>
+  
+    <div class="org-row">
       <div class="org-logo" title="Code for Science & Society - Open science">
-        <a href="https://codeforscience.org" style="color: #3498db;">CS&S</a>
+        <a href="https://codeforscience.org" style="color: #6be;">CS&S</a>
       </div>
-    </div>
-  
-    <div class="org-row">
       <div class="org-logo" title="Berkman Klein Center - Internet & society research">
-        <a href="https://cyber.harvard.edu"  style="color: #a020f0;">BKC</a>
-      </div>
-      <div class="org-logo" title="Bertelsmann Foundation - Digital society">
-        <a href="https://bfna.org" style="color: #005eb8;">BF</a>
-      </div>  
-      <div class="org-logo" title="Mozilla Foundation - Internet health">
-        <a href="https://www.mozillafoundation.org/" style="color: #ff6611;">MF</a>
-      </div>
-      <div class="org-logo" title="Patrick J. McGovern Foundation - AI for humanity">
-        <a href="https://www.mcgovern.org" style="color: #f4511e;">PJM</a>
-      </div>
-    </div>
-  
-    <div class="org-row">
-      <div class="org-logo" title="Open Future - Digital commons advocacy">
-        <a href="https://openfuture.eu"  style="color: #44b78b;">OF</a>
+        <a href="https://cyber.harvard.edu"  style="color: #a2f;">BKC</a>
       </div>
       <div class="org-logo" title="Rockefeller Foundation - Equity & resilience">
-       <a href="https://www.rockefellerfoundation.org/" style="color: #7cb342;">RF</a>
+       <a href="https://www.rockefellerfoundation.org/" style="color: #d69;">RF</a>
       </div>
+    </div>
+
+    <div class="org-row">
+      <div class="org-logo" title="Mozilla Foundation - Internet health">
+        <a href="https://www.mozillafoundation.org/" style="color: #f84;">MF</a>
+      </div>
+      <div class="org-logo" title="Patrick J. McGovern Foundation - AI for humanity">
+        <a href="https://www.mcgovern.org" style="color: #c13;">PMF</a>
+      </div>
+      <div class="org-logo" title="Siegel Family Endowment">
+        <a href="https://www.siegelendowment.org"  style="color: #1b6;">SE</a>
+      </div>
+      <div class="org-logo" title="Open Future - Digital commons advocacy">
+        <a href="https://openfuture.eu"  style="color: #696;">OF</a>
+      </div>
+    </div>
+  
+    <div class="org-row">
       <div class="org-logo" title="Internet Archive - Universal access to knowledge">
-        <a href="https://archive.org" style="color: #333;">IA</a>
-      </div>
-      <div class="org-logo" title="Creative Commons - Open licensing">
-        <a href="https://creativecommons.org/" style="color: #ef9421;">CC</a>
+        <a href="https://archive.org" style="color: #36b;">IA</a>
       </div>
       <div class="org-logo" title="Library of Congress - National library">
-        <a href="https://loc.gov" style="color: #8b4513;">LoC</a>
+        <a href="https://loc.gov" style="color: #941;">LoC</a>
+      </div>
+      <div class="org-logo" title="Bertelsmann Foundation - Digital society">
+        <a href="https://bfna.org" style="color: #06c;">BF</a>
+      </div>  
+      <div class="org-logo" title="Creative Commons - Open licensing">
+        <a href="https://creativecommons.org/" style="color: #fd4;">CC</a>
       </div>
     </div>
   
   <div style="text-align:center; color:#999; font-size:14px"> <br/> 
-  Metagov · Aspen Digital · Public Knowledge · Chatham House · Code for Science and Society <br/>  
-  Berkman Klein Center · Bertelsmann Foundation · Mozilla Foundation · Patrick J. McGovern Foundation <br/>
-  Open Future · Rockefeller Foundation · Internet Archive · Creative Commons · Library of Congress
+  Metagov · Aspen Digital · Public Knowledge · Chatham House <br/>
+  Code for Science and Society · Berkman Klein Center · Rokefeller Foundation <br/>
+  Mozilla Foundation · Patrick J. McGovern Foundation · Siegel Family · Open Future<br/>
+  Internet Archive · Library of Congress · Bertelsmann Foundation · Creative Commons 
   </div>
 </div>
 
@@ -1256,7 +1380,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 <!--  easier to find "get involved" links -->
 ## Join the Movement
 
-We are always looking for people and organizations committed to ensuring AI serves the public good. Whether you're a researcher, policymaker, technologist, or advocate, there's a place for you in our community.</p>
+We are always looking for people and organizations committed to ensuring AI serves the public good. Whether you're a researcher, policymaker, technologist, or advocate, there's a place for you in our community.
 
 We host a Slack for active community members and partners, and host regular events including a [seminar series](../seminar.html) to share insights from and foster discussion with leaders in various fields.
 
