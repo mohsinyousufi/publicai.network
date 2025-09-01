@@ -4,9 +4,7 @@ title: Contributors
 permalink: /contributors/
 ---
 
-The **Public AI Network** brings together a diverse coalition of researchers, practitioners, policymakers, and organizations, 
-all advancing public AI. Our community spans academia, civil society, government, and industry, united by a shared vision of 
-AI that serves the public good. [Join us](#join-the-movement)!
+The **Public AI Network** brings together a diverse coalition of researchers, practitioners, policymakers, and organizations, all advancing public AI. Our community spans academia, civil society, government, and industry, united by a shared vision of AI that serves the public good. [Join us](#join-the-movement)!
 
 
 <style>
@@ -1283,12 +1281,19 @@ document.addEventListener('DOMContentLoaded', function() {
   document.body.appendChild(popup);
   
   let currentCard = null;
-  
+  let popupTimer = null;
+
   // Handle card hover
   const cards = document.querySelectorAll('.card');
   cards.forEach(card => {
     card.addEventListener('mouseenter', function(e) {
       
+      // Clear any existing timer
+      if (popupTimer) {
+        clearTimeout(popupTimer);
+        popupTimer = null;
+      }
+
       currentCard = this;
       const content = this.querySelector('.content').innerHTML;
       popup.innerHTML = content;
@@ -1300,7 +1305,8 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Keep popup on screen
       if (left + 300 > window.innerWidth) {
-        left = rect.left - 310;  // Show on left if no room on right
+        left = rect.left - 40;  // Show on left if no room on right
+        top = rect.top + 30;
       }
       if (top < 10) top = 10;
       
@@ -1309,6 +1315,17 @@ document.addEventListener('DOMContentLoaded', function() {
       popup.style.left = left + 'px';
       popup.style.top = top + 'px';
     });    
+
+    card.addEventListener('mouseleave', function(e) {
+      // Only hide if not moving to popup
+      const related = e.relatedTarget;
+      if (!popup.contains(related)) {
+        popupTimer = setTimeout(() => {
+          popup.style.display = 'none';
+          currentCard = null;
+        }, 100);  // Small delay to allow moving to popup
+      }
+    });
   });
   
 
