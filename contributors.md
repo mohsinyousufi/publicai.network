@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contributors
+nav_title: Contributors
 permalink: /contributors/
 ---
 
@@ -361,7 +362,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 
 ## Contributors
 
-*Contributors to our collective work, from publications and advocacy to technical projects and events.  This list is under construction - we are just starting to compile it from members of the community.*
+*Contributors to our collective work, from publications and advocacy to technical projects and events.  This list is under construction - add yourself!*
 
 <div class="catalog">
   
@@ -390,7 +391,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="aff">Chatham House</div>
         <div class="details">
           Community Organizer<br/>
-          <b>Focus:</b> Strategic Partnerships
+          <b>Focus:</b> Digital public infrastructure, partnerships
         </div>
         <div class="joined">Founding Member</div>
       </div>
@@ -451,6 +452,19 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="joined">2025</div>
      </div>
     </div>
+
+<div class="card">
+  <div class="tab">Bettina Warburg</div>
+  <div class="content">
+    <div class="avatar c4">BW</div>
+    <div class="name">Bettina Warburg</div>
+    <div class="aff">📚</div>
+    <div class="details">
+      <b>Focus:</b> Web3, innovation, knowledge integrity
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
 
     <div class="card">
      <div class="tab">Bobbi Rakova</div>
@@ -637,6 +651,19 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   </div>
 </div>
 
+<div class="card">
+  <div class="tab">Joshua Hewson</div>
+  <div class="content">
+    <div class="avatar c4">JH</div>
+    <div class="name">Joshua Hewson</div>
+    <div class="aff">Brown</div>
+    <div class="details">
+      <b>Focus:</b> Alignment, cognitive enhancement, neuroscience
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
     <div class="card">
       <div class="tab">Joshua Tan</div>
       <div class="content">
@@ -774,6 +801,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     <div class="name">Meredith Whipple</div>
     <div class="aff">Public Knowledge</div>
     <div class="details">
+    <b>Focus:</b> Policy, civic technology
     </div>
     <div class="joined">2024</div>
   </div>
@@ -786,6 +814,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     <div class="name">Natalie Buda Smith</div>
     <div class="aff">Library of Congress</div>
     <div class="details">
+    <b>Focus:</b> Libraries, government, humans in the loop. ([interview](https://aicenterforgovernment.org/2025/07/03/ai-spotlight-pairing-human-and-artificial-intelligence-at-the-library-of-congress/))
     </div>
     <div class="joined">2024</div>
   </div>
@@ -860,7 +889,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     </div>
     
     <div class="drawer-front">
-      <div class="drawer-label">MEMBERS M-Z</div>
+      <div class="drawer-label">MEMBERS N-Z</div>
     </div>
   </div>
 
@@ -921,6 +950,22 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="joined">Season 1</div>
       </div>
     </div>
+
+<div class="card">
+  <div class="tab">Dan Zhao</div>
+  <div class="content">
+    <div class="avatar c1">DZ</div>
+    <div class="name">Dan Zhao</div>
+    <div class="aff">MIT</div>
+    <div class="details">
+      <b>Seminar:</b>
+      • <a href="https://www.youtube.com/watch?v=wZ23B9ohMvQ">Agent Strategy</a> ([notes](https://docs.google.com/document/d/1eVaVJVkwHw3HIKePBsfTVd_q6h4mawnsnXXql6NHqc8/edit?tab=t.0#heading=h.2uwjflbphywn)) <br/>
+      • August 21, 2025<br/>
+      <b>Focus:</b> Multimodal agents, benchmarks
+    </div>
+    <div class="joined">Season 3</div>
+  </div>
+</div>
 
     <div class="card">
       <div class="tab">David Bau</div>
@@ -1300,7 +1345,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 </div>
 
 *Other facilitators and speakers at past Public AI events include:* 
-* [*AI in the Agencies*](https://www.aspendigital.org/event/building-a-more-public-ai-ecosystem/) panel, Library of Congress, 2024-08-11: Travis Hoppe (AI R&D, White House OSTP), Victoria Houed (AI Policy, Commerce; now at POPVOX), Zach  Whitman (Chief AI Officer, GSA).
+* [*AI in the Agencies*](https://www.aspendigital.org/event/building-a-more-public-ai-ecosystem/) panel, Library of Congress, 2024-08-11: Travis Hoppe (AI R&D, White House OSTP), Victoria Houed (AI Policy, Commerce; now at POPVOX), Zach  Whitman (Chief AI Officer, GSA). Caroyln Dee (NY State AI policy) gave a presentation about the state of Empire AI.
 * [**Public AI Congress**](https://www.ai-inthecity.ens.psl.eu/en/programme/67892dde5474c438e5a4c5b0), Paris, 2025-02-11: Adriana Groh, [Sovereign Tech Agency](https://www.sovereign.tech/) (Germany); Alexander Ilic, ETH AI Center (Switzerland); Marta Villegas, BSC (Spain); Petri Myllymäki, Ellis Institute (Finland) 
 * [**AI Action II**](https://docs.google.com/document/d/1IyP2jGob6Zxp1V7jjN1Ax--r45FHGYBgDhK31eoMNVU/edit?tab=t.0), Fey, 2025-02-12/13: Brewster Kahle (Internet Archive), Peter Wang (Anaconda), Primavera De Filippi (Alien), Pedro Ortiz Suarez (Common Crawl), Vincent Ginis (VUB)
 
