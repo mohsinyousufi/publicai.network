@@ -547,7 +547,15 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   </div>
 </div>
 
-    <div class="card">
+    <div class="drawer-front">
+      <div class="drawer-label">MEMBERS A-D</div>
+    </div>
+  </div>
+
+<!-- F-L -->
+  <div class="catalog-column">
+
+ <div class="card">
       <div class="tab">Eleanor Tursman</div>
       <div class="content">
         <div class="avatar c3">ET</div>
@@ -560,14 +568,6 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="joined">2024</div>
       </div>
     </div>
-
-    <div class="drawer-front">
-      <div class="drawer-label">MEMBERS A-E</div>
-    </div>
-  </div>
-
-<!-- F-L -->
-  <div class="catalog-column">
 
 <div class="card">
   <div class="tab">Felix Sieker</div>
@@ -744,7 +744,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 </div>
 
     <div class="drawer-front">
-      <div class="drawer-label">MEMBERS F-L</div>
+      <div class="drawer-label">MEMBERS E-L</div>
     </div>
  </div>
 
@@ -842,11 +842,24 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="name">Nick Vincent</div>
         <div class="aff">Simon Fraser University</div>
         <div class="details">
-          <b>Focus:</b> Data contribution systems, platform cooperatives, labor, data flywheel <br/>
+          <b>Focus:</b> Data contribution systems, platform cooperatives, labor, data flywheel 
         </div>
         <div class="joined">2024</div>
       </div>
     </div>
+
+<div class="card">
+  <div class="tab">Nicolas Flores-Herr</div>
+  <div class="content">
+    <div class="avatar c5">NF</div>
+    <div class="name">Nicolas Flores-Herr</div>
+    <div class="aff">Fraunhofer</div>
+    <div class="details">
+      <b>Focus:</b> Conversational AI, training, neuroscience
+    </div>
+    <div class="joined">2025</div>
+  </div>
+</div>
 
   <div class="card">
       <div class="tab">Philip Tomei</div>
@@ -882,14 +895,14 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="name">Sarah Schwettmann</div>
         <div class="aff">Transluce, MIT</div>
         <div class="details">
-          <b>Focus:</b> AI interpretability, third-party audits
+          <b>Focus:</b> Interpretability, third-party audits
         </div>
         <div class="joined">2024</div>
       </div>
     </div>
     
     <div class="drawer-front">
-      <div class="drawer-label">MEMBERS N-Z</div>
+      <div class="drawer-label">MEMBERS M-Z</div>
     </div>
   </div>
 
@@ -1069,7 +1082,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     </div>
 
   </div>
-  <!-- J-L -->
+  <!-- J-M -->
   <div class="catalog-column">
 
     <div class="card">
@@ -1338,7 +1351,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     </div>
 
     <div class="drawer-front">
-      <div class="drawer-label">SPEAKERS M-Z</div>
+      <div class="drawer-label">SPEAKERS N-Z</div>
     </div>
   </div>
 
