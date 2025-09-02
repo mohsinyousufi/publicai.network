@@ -460,7 +460,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     <div class="name">Bettina Warburg</div>
     <div class="aff">📚</div>
     <div class="details">
-      <b>Focus:</b> Web3, innovation, knowledge integrity
+      <b>Focus:</b> Web3, strategic innovation, knowledge integrity
     </div>
     <div class="joined">2024</div>
   </div>
@@ -814,7 +814,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     <div class="name">Natalie Buda Smith</div>
     <div class="aff">Library of Congress</div>
     <div class="details">
-    <b>Focus:</b> Libraries, government, humans in the loop. ([interview](https://aicenterforgovernment.org/2025/07/03/ai-spotlight-pairing-human-and-artificial-intelligence-at-the-library-of-congress/))
+    <b>Focus:</b> Libraries, government, humans in the loop. (<a href="https://aicenterforgovernment.org/2025/07/03/ai-spotlight-pairing-human-and-artificial-intelligence-at-the-library-of-congress/">interview</a>)
     </div>
     <div class="joined">2024</div>
   </div>
@@ -931,7 +931,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     <div class="details">
       <b>Speaker:</b> Government innovation, AI strategy (LOC event)
     </div>
-    <div class="joined">2024</div>
+    <div class="joined">Multiple events</div>
   </div>
 </div>
 
@@ -959,7 +959,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     <div class="aff">MIT</div>
     <div class="details">
       <b>Seminar:</b>
-      • <a href="https://www.youtube.com/watch?v=wZ23B9ohMvQ">Agent Strategy</a> ([notes](https://docs.google.com/document/d/1eVaVJVkwHw3HIKePBsfTVd_q6h4mawnsnXXql6NHqc8/edit?tab=t.0#heading=h.2uwjflbphywn)) <br/>
+      • <a href="https://www.youtube.com/watch?v=wZ23B9ohMvQ">Agent Strategy</a> (<a href="https://docs.google.com/document/d/1eVaVJVkwHw3HIKePBsfTVd_q6h4mawnsnXXql6NHqc8/edit?tab=t.0#heading=h.2uwjflbphywn">notes</a>) <br/>
       • August 21, 2025<br/>
       <b>Focus:</b> Multimodal agents, benchmarks
     </div>
