@@ -17,6 +17,7 @@ minima:
   nav_pages:
   - libraries.md
   - seminar.md
+  - contributors.md
   - news.md
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: true
