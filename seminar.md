@@ -12,7 +12,14 @@ table td:first-child { white-space: nowrap; width: 3.5em;  /* don't break on dat
 table th { text-align: center; }
 </style>
 
-We organize a regular research seminar to study Public AI and other forms of public interest AI. If you have suggestions for future speakers you'd like to see, [let us know](mailto:hello@publicai.network). If you are interested in joining a future seminar season, you can [apply here](https://forms.gle/1f8fkcCEjEoJF6L78).
+We organize a regular research seminar with two objectives: To share research, ideas, and tools that support the development of public AI, and to foster a community capable of describing, guiding, and implementing public AI. 
+
+The first half of each session, reserved for invited talks, is recorded via Zoom and posted online. Notes are summarized without attribution, under Chatham House rules. Attendance is invite-only to keep it cozy; to join a future season, you can [apply here](https://forms.gle/1f8fkcCEjEoJF6L78). 
+You can also [suggest future speakers](mailto:hello@publicai.network) you would like to see. 
+
+**Meetings** are Tuesdays from 11am – 1pm ET over Zoom.<br/>
+**Recordings** and notes are shared publicly on [this page](https://publicai.network/seminar).
+
 
 ## Season 3
 Season 3 ran from April 22 to June 10, 2025, with two special sessions later in the summer. The seminar surveyed positions on AI emerging from art and culture, and considered the relationship between AI and the creative industries through four lenses: political power, cultural power, technological power, and economic power. Several spots were reserved for creative professionals in any medium interested in exploring public AI. 
@@ -70,16 +77,4 @@ The first season of the seminar ran from January to March, 2024. We considered d
 | Mar 5 | Synthesis, conclusions, where we go from here| | 
 
 Organizers: Joshua Tan (Oxford, Metagov), SJ Klein (Berkman, Concordance), Nick Garcia (Public Knowledge)
-
-# About the seminar series
-
-The Public AI Seminar series has two parallel objectives: 
-- To develop a body of research, ideas, and tools to support the development of public AI 
-- To foster an intellectual community capable of describing, guiding, and implementing public AI 
-
-**Format**: the seminar is invite-only. The first half of the seminar, reserved for invited talks, is recorded via Zoom and posted online. Notes from the entire seminar will be summarized without named attribution under the Chatham House rule.
-
-**Meeting times**: every Tuesday from 11am - 1pm ET over Zoom.
-
-**Recordings and notes** are posted online at [https://publicai.network/seminar](https://publicai.network/seminar).
 
