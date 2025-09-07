@@ -41,7 +41,6 @@ We also host many [events](#events) (see below) and a regular [seminar series](h
 ## Learn more
 
 - 2024 [White Paper](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}, currently the best overview of Public AI
-- 2023 [Wiki working document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit){:target="_blank" rel="noopener"}, where it all began
 - NeurIPS 2023 [Workshop Paper](https://arxiv.org/abs/2311.11350){:target="_blank" rel="noopener"} and [poster](https://docs.google.com/presentation/d/e/2PACX-1vTTPlkbPBeLAjzfQzx72DsS4VwBFY3YLYvX_cCLNw83FWs0zoLoaDSYjgFbdgi8zQ/pub?start=false&loop=false&delayms=3000){:target="_blank" rel="noopener"}, intended for the ML community
 - Ongoing [Seminar notes & recordings](https://publicai.network/seminar.html){:target="_blank" rel="noopener"}
 
@@ -51,7 +50,7 @@ Public AI is a public, collaborative effort.
 
 - For questions about public AI or to get involved, sign up for [the newsletter](https://publicai.substack.com){:target="_blank" rel="noopener"} or [contact us](mailto:hello@publicai.network){:target="_blank" rel="noopener"}!
 - [We're recruiting](https://docs.google.com/document/d/1jtfzDaQHqHaF8gypFmqo8JZwQvgKFdYHFG2rjxLst0k/edit){:target="_blank" rel="noopener"} for specific roles, and always intereseted in working with aligned groups.  
-- The [original wiki document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit){:target="_blank" rel="noopener"} describing public AI is publicly-editable. Suggestions welcome.
+- Our [original wiki document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit){:target="_blank" rel="noopener"} describing public AI is publicly-editable. Suggestions welcome.
 - To edit this site (e.g. to add an event or document), visit [our GitHub](https://github.com/manymodels/publicai.network){:target="_blank" rel="noopener"}.
 
 ## Events
@@ -69,6 +68,7 @@ Upcoming events are being planned in Zurich and Los Angeles.
 | Date | Event | Location |
 |------|-------|----------|
 | Sep 9, 2025 | the first [Public AI quarterly call](https://lu.ma/g9fafiq0){:target="_blank" rel="noopener"} | &emsp; *Online* |
+| Sep-Oct, 2025 | [Public AI Inference Utility](https://publicai.co/) makes [Apertus](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html) accessible during [Swiss AI Weeks](https://swiss-ai-weeks.ch/). |  &emsp; *Online* |
 
 ### Past events
 
