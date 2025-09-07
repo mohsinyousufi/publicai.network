@@ -15,9 +15,9 @@ table th { text-align: center; font-weight: normal; font-size: 16px; }
 | Date | Update |
 |------|--------|
 | **2025**  |   |
-| 11/7-9 | [🪩] [Mozfest](https://www.mozillafestival.org/en/) @ 15, Barcelona. Benchmarks + other Public AI workshops.
+| 11/7-9 | [🪩] [Mozfest](https://www.mozillafestival.org/en/) @ 15 returns to Barcelona. Public AI events will include a [Benchmarks](https://www.aspeninstitute.org/publications/reclaiming-ai-for-development/) workshop.
 | 9/9 | [🗣️] First quarterly call for the Public AI Network, 1000–1130 ET / 1400–1530 UTC.  [RSVP](https://luma.com/g9fafiq0), or [propose a lightning talk](https://docs.google.com/forms/d/e/1FAIpQLSdYfhh44IkZf8JcnPM7BJVf5xWu0chHProQE97XxBJe6kL4rQ/viewform)!
-| 9/2 | [🛠] Launch of our Public AI Inference utility, offering anyone in the world access to Swiss AI and Singapore AI models.  |
+| 9/2 | [🛠] Launch of a Public AI [Inference utility](https://chat.publicai.co), offering anyone in the world access to the newly released [Swiss AI](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html) model.  |
 | 9/1 | [🗣️] Our [weekly community calls](https://calendar.google.com/calendar/u/0/share?slt=1AQOvs_UUrtx8x5KqN9JkH3NPNtSrJTmvT0jQ1Pvn3HGAbJEW1qma6uGGMbSLmFPYu0XqiZEIjLK7VMIMwLJT6oKJZwvj8RM5jrSV) are open to participation.  To present your work, [send us](mailto:hello@publicai.network) a short description.
 | 8/27 | [🗞️] Newsletter: Progress / Agents / Building Public AI together & out loud ![banner](../assets/news-banner-8-25.png){:height="28px"}
 | 8/21 | [👨‍🏫] Special seminar on AI agents ([video](https://www.youtube.com/watch?v=wZ23B9ohMvQ)) and [memo on public AI agents](https://docs.google.com/document/d/1eVaVJVkwHw3HIKePBsfTVd_q6h4mawnsnXXql6NHqc8/) |
