@@ -1,8 +1,10 @@
 ---
-title: Speculative Fiction Contest
+title: Protopian AI Fiction Prize
 nav_title: Fiction
 layout: page
 ---
+
+# Write the story of humanity's future.
 
 ## PROMPT:
 
