@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+nav_title: Publications
 permalink: /publications/
 ---
 
@@ -111,41 +112,41 @@ table em {
 }
 </style>
 
-## Whitepapers and proposals
+## Selected publications
 
 | Date | Title (Authors) | Description |
 |------|-----------------|-------------|
-| Aug 10, 2024 | [Public AI Whitepaper](https://drive.google.com/file/d/1bcCPdRHyUGFB23--6wn4j1f9mRgdG2QF) <span class="tag">Whitepaper</span><br>*B. Jackson, B Cavello, N. Garcia, J. Tan, S. Klein, A. Krasodomski, F. Devine, E. Tursman.* | Comprehensive framework for developing and deploying AI systems as public infrastructure with democratic oversight. |
-| May 20, 2025 | [Open Future: White Paper on Public AI](https://openfuture.eu/publication/white-paper-on-public-ai/) <span class="tag">Whitepaper</span><br>*Felix Sieker, Alek Tarkowski, Lea Gimpel, and Cailean Osborne.* Open Future Foundation| Policy recommendations for establishing public AI as a cornerstone of digital sovereignty across Europe. |
-| May 2025     | [Canada as a Champion for Public AI](https://www.nickmvincent.com/static/canada_publicai.pdf) <span class="tag">Policy Brief</span><br>*Nicholas Vincent, Mark Surman, Jake Hirsch-Allen.* | Canada's unique position and opportunity to lead in developing public AI infrastructure. |
-| Jun 18, 2025 | [Intelligence in the Public Interest](https://www.aspendigital.org/report/intelligence-in-the-public-interest/) <span class="tag">Report</span><br>*B Cavello, Eleanor Tursman.* Aspen Digital | Part of a *Community-Aligned AI Benchmarks* workstream on public interest AI. |
-| Aug 2025     | [Airbus for AI](https://docs.google.com/document/d/1JpWpcIs-ClzJdhzGOv0vkozyjlGPMdGiIMyj7EenlbA) <span class="tag">Proposal</span><br>*Joshua Tan, Brandon Jackson, Robin Berjon, Diane Coyle* | Applying large-scale public-private collaboration models like Airbus to AI development for viable public alternatives. |
-| Sep 2, 2025  | [Data Flywheels and Public AI](https://nickmvincent.github.io/pai-flywheel-mini-book-2/) <span class="tag">Proposal</span><br>*Nick Vincent, et al.* | How data flywheels can be reimagined for public AI systems that serve collective interests rather than extractive profit models. |
+| Aug 10, 2024<br><span class="tag">Whitepaper</span> | [Public AI Whitepaper](https://drive.google.com/file/d/1bcCPdRHyUGFB23--6wn4j1f9mRgdG2QF)<br>*B. Jackson, B Cavello, N. Garcia, J. Tan, S. Klein, A. Krasodomski, F. Devine, E. Tursman.* | Comprehensive framework for developing and deploying AI systems as public infrastructure with democratic oversight. |
+| May 20, 2025<br><span class="tag">Whitepaper</span> | [Open Future: White Paper on Public AI](https://openfuture.eu/publication/white-paper-on-public-ai/)<br>*Felix Sieker, Alek Tarkowski, Lea Gimpel, and Cailean Osborne.* Open Future Foundation| Policy recommendations for establishing public AI as a cornerstone of digital sovereignty across Europe. |
+| May 2025<br><span class="tag">Policy Brief</span> | [Canada as a Champion for Public AI](https://www.nickmvincent.com/static/canada_publicai.pdf)<br>*Nicholas Vincent, Mark Surman, Jake Hirsch-Allen.* | Canada's unique position and opportunity to lead in developing public AI infrastructure. |
+| Jun 18, 2025<br><span class="tag">Report</span> | [Intelligence in the Public Interest](https://www.aspendigital.org/report/intelligence-in-the-public-interest/)<br>*B Cavello, Eleanor Tursman.* Aspen Digital | Part of a *Community-Aligned AI Benchmarks* workstream on public interest AI. |
+| Aug 2025<br><span class="tag">Proposal</span> | [Airbus for AI](https://docs.google.com/document/d/1JpWpcIs-ClzJdhzGOv0vkozyjlGPMdGiIMyj7EenlbA)<br>*Joshua Tan, Brandon Jackson, Robin Berjon, Diane Coyle* | Applying large-scale public-private collaboration models like Airbus to AI development for viable public alternatives. |
+| Sep 2, 2025<br><span class="tag">Monograph</span> | [Data Flywheels and Public AI](https://nickmvincent.github.io/pai-flywheel-mini-book-2/)<br>*Nick Vincent, et al.* | How data flywheels can be reimagined for public AI systems that serve collective interests rather than extractive profit models. |
 
 ## Other network publications
 
 | Date | Title (Authors) | Description |
 |------|-----------------|------- ------|
-| Sep 9, 2025  | [Should the public sector build its own AI?](https://www.ft.com/content/686252f6-6d3d-40ec-bb2b-132d4fafb198) <span class="tag">Op-Ed</span> *Gideon Lichfield*, FT | How some countries are trying to take back control of access to AI
-| May 29, 2025 | [Minimum Viable Public AI Utility Co.](https://docs.google.com/document/d/1OXAiQ2Ucmgq8fFDzGFcksQUbhIKrQvTIFEaq28_4VSM/) <span class="tag">Paper</span><br>*Brandon Jackson, et al.* | Framework for establishing minimal viable public AI utilities as foundational community infrastructure. |
-| Oct 3, 2024  | [Democratizing AI for the Public Good](https://openfuture.eu/publication/democratizing-ai-for-the-public-good/) <span class="tag">Policy Brief</span><br>*Lea Gimpel, Daniel Brumund, Alek Tarkowski, Maximilian Gahntz, et al.* | How open source AI as digital public goods can advance AI democratization. |
-| Sep 30, 2024 | [Public AI: Making AI Work For Everyone, By Everyone](https://www.mozillafoundation.org/en/research/library/public-ai/) <span class="tag">Paper</span><br>*Nik Marda, Jasmine Sun, Mark Surman*, Mozilla | The case for promoting public goods and public orientation throughout AI development. |
-| Jun 12, 2023 | [Build AI By The People, For The People](https://foreignpolicy.com/2023/06/12/ai-regulation-technology-us-china-eu-governance/) <span class="tag">Op-Ed</span><br>*Bruce Schneier, Nathan E. Sanders*, FP.com | Call for public sector investment in AI given risks of Silicon Valley dominance. |
+| Sep 9, 2025<br><span class="tag">Op-Ed</span> | [Should the public sector build its own AI?](https://www.ft.com/content/686252f6-6d3d-40ec-bb2b-132d4fafb198)<br>*Gideon Lichfield*, FT | How some countries are trying to take back control of access to AI
+| May 29, 2025<br><span class="tag">Proposal</span> | [Minimum Viable Public AI Utility Co.](https://docs.google.com/document/d/1OXAiQ2Ucmgq8fFDzGFcksQUbhIKrQvTIFEaq28_4VSM/)<br>*Brandon Jackson, et al.* | Framework for establishing minimal viable public AI utilities as foundational community infrastructure. |
+| Oct 3, 2024<br><span class="tag">Policy Brief</span> | [Democratizing AI for the Public Good](https://openfuture.eu/publication/democratizing-ai-for-the-public-good/)<br>*Lea Gimpel, Daniel Brumund, Alek Tarkowski, Maximilian Gahntz, et al.* | How open source AI as digital public goods can advance AI democratization. |
+| Sep 30, 2024<br><span class="tag">Paper</span> | [Public AI: Making AI Work For Everyone, By Everyone](https://www.mozillafoundation.org/en/research/library/public-ai/)<br>*Nik Marda, Jasmine Sun, Mark Surman*, Mozilla | The case for promoting public goods and public orientation throughout AI development. |
+| Jun 12, 2023<br><span class="tag">Op-Ed</span> | [Build AI By The People, For The People](https://foreignpolicy.com/2023/06/12/ai-regulation-technology-us-china-eu-governance/)<br>*Bruce Schneier, Nathan E. Sanders*, FP.com | Call for public sector investment in AI given risks of Silicon Valley dominance. |
 
 ## Other papers about public AI
 
 | Date | Title (Authors) | Description |
 |------|-----------------|-------------|
-| Nov 7, 2024  | [Antimonopoly Tools for Regulating AI](https://yalelawandpolicy.org/antimonopoly-approach-governing-artificial-intelligence) <span class="tag">Policy Brief</span><br>*Ganesh Sitaraman, Tejas Narechania* | Technical analysis of the AI stack and public options to combat concentrated private power. |
-| Sep 24, 2024 | [The National Security Case for Public AI](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/412/2024/09/27201409/VPA-Paper-National-Security-Case-for-AI.pdf) <span class="tag">Policy Brief</span><br>*Ganesh Sitaraman, Alex Pascal*, Vanderbilt | Why the U.S. should embrace the public sector's role in building and governing AI for national security. |
-| Sep 2024     | [Creating a Public Cloud through the Defense Production Act](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/412/2024/09/27135238/VPA-Paper-DPA-Public-Cloud.pdf) <span class="tag">Policy Brief</span><br>*Joel Dodge*, Vanderbilt | How the Defense Production Act can be used to acquire GPUs for public cloud infrastructure. |
-| Jun 7, 2024  | [A 'CERN for AI' – International AI Research Organization](https://www.chathamhouse.org/2024/06/artificial-intelligence-and-challenge-global-governance/02-cern-ai-what-might-international) <span class="tag">Essay</span><br>*Elliot Jones* | Exploring whether a CERN-like model could work for AI governance. (and [8 related essays](https://www.chathamhouse.org/2024/06/artificial-intelligence-and-challenge-global-governance))|
-| Apr 2024     | [Defining Public AI](https://reader.futureartecosystems.org/briefing/fae4/defining-public-ai) <span class="tag">Paper</span><br>*Serpentine Arts Technologies* | Publicness as a spectrum of public agency, ranging from 'thin' to 'thick'. |
-| Apr 24, 2024 | [The Role of Public Compute](https://www.adalovelaceinstitute.org/blog/the-role-of-public-compute/) <span class="tag">Article</span><br>*Eleanor Shearer, Matt Davies, Mathew Lawrence* | Challenges to address for realizing the potential of public compute policies. |
-| Apr 6, 2024  | [Building a New Political Economy for AI](https://economicsecurityproject.org/resource/building-a-new-political-economy-for-ai/) <span class="tag">Workshop paper</span><br>*Becky Chao,* Economic Security Project | Workshop findings on governing tech and AI for broad-based prosperity. |
-| Mar 13, 2024 | [How States Can Keep Big Tech from Dominating AI](https://www.politico.com/news/magazine/2024/03/13/states-big-tech-ai-00146338) <span class="tag">Op-Ed</span><br>*Natalie Foster, Ganesh Sitaraman* | Survey of state-level initiatives to advance Public AI. |
-| Mar 12, 2024 | [AI Nationalism(s): Global Industrial Policy Approaches](https://ainowinstitute.org/publications/research/ai-nationalisms-global-industrial-policy-approaches-to-ai) <span class="tag">Overview</span><br>*AI Now* | Survey of industrial policies proposed by governments with differing motivations. |
-| Nov 10, 2019 | [AI Is Too Important to Leave to Google and Facebook Alone](https://www.nytimes.com/2019/11/10/opinion/artificial-intelligence-facebook-google.html) <span class="tag">Op-Ed</span><br>*Ben Gansky, Michael Martin, Ganesh Sitaraman* | Argument for a public research consortium to tackle AI projects with no commercial prospects. |
+| Nov 7, 2024<br><span class="tag">Policy Brief</span> | [Antimonopoly Tools for Regulating AI](https://yalelawandpolicy.org/antimonopoly-approach-governing-artificial-intelligence)<br>*Ganesh Sitaraman, Tejas Narechania* | Technical analysis of the AI stack and public options to combat concentrated private power. |
+| Sep 24, 2024<br><span class="tag">Policy Brief</span> | [The National Security Case for Public AI](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/412/2024/09/27201409/VPA-Paper-National-Security-Case-for-AI.pdf)<br>*Ganesh Sitaraman, Alex Pascal*, Vanderbilt | Why the U.S. should embrace the public sector's role in building and governing AI for national security. |
+| Sep 2024<br><span class="tag">Policy Brief</span> | [Creating a Public Cloud through the Defense Production Act](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/412/2024/09/27135238/VPA-Paper-DPA-Public-Cloud.pdf)<br>*Joel Dodge*, Vanderbilt | How the Defense Production Act can be used to acquire GPUs for public cloud infrastructure. |
+| Jun 7, 2024<br><span class="tag">Essay</span> | [A 'CERN for AI' – International AI Research Organization](https://www.chathamhouse.org/2024/06/artificial-intelligence-and-challenge-global-governance/02-cern-ai-what-might-international)<br>*Elliot Jones* | Exploring whether a CERN-like model could work for AI governance. (and [8 related essays](https://www.chathamhouse.org/2024/06/artificial-intelligence-and-challenge-global-governance))|
+| Apr 2024<br><span class="tag">Paper</span> | [Defining Public AI](https://reader.futureartecosystems.org/briefing/fae4/defining-public-ai)<br>*Serpentine Arts Technologies* | Publicness as a spectrum of public agency, ranging from 'thin' to 'thick'. |
+| Apr 24, 2024<br><span class="tag">Article</span> | [The Role of Public Compute](https://www.adalovelaceinstitute.org/blog/the-role-of-public-compute/)<br>*Eleanor Shearer, Matt Davies, Mathew Lawrence* | Challenges to address for realizing the potential of public compute policies. |
+| Apr 6, 2024<br><span class="tag">Workshop</span> | [Building a New Political Economy for AI](https://economicsecurityproject.org/resource/building-a-new-political-economy-for-ai/)<br>*Becky Chao,* Economic Security Project | Workshop findings on governing tech and AI for broad-based prosperity. |
+| Mar 13, 2024<br><span class="tag">Op-Ed</span> | [How States Can Keep Big Tech from Dominating AI](https://www.politico.com/news/magazine/2024/03/13/states-big-tech-ai-00146338)<br>*Natalie Foster, Ganesh Sitaraman* | Survey of state-level initiatives to advance Public AI. |
+| Mar 12, 2024<br><span class="tag">Overview</span> | [AI Nationalism(s): Global Industrial Policy Approaches](https://ainowinstitute.org/publications/research/ai-nationalisms-global-industrial-policy-approaches-to-ai)<br>*AI Now* | Survey of industrial policies proposed by governments with differing motivations. |
+| Nov 10, 2019<br><span class="tag">Op-Ed</span> | [AI Is Too Important to Leave to Google and Facebook Alone](https://www.nytimes.com/2019/11/10/opinion/artificial-intelligence-facebook-google.html)<br>*Ben Gansky, Michael Martin, Ganesh Sitaraman* | Argument for a public research consortium to tackle AI projects with no commercial prospects. |
 
 
 <!--  ## Test section -->
