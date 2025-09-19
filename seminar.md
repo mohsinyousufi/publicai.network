@@ -5,6 +5,13 @@ nav_title: Seminar
 description: A research seminar to study public AI and other forms of public interest AI.
 ---
 
+<style>
+table {  border-spacing: 0; }
+table td, table th {  padding: 4px;  /* default is 12px */ }
+table td:first-child { white-space: nowrap; width: 3.5em;  /* don't break on date */ }
+table th { text-align: center; }
+</style>
+
 A research seminar to study public AI and other forms of public interest AI. You can [apply](https://forms.gle/1f8fkcCEjEoJF6L78) to join a future season of the seminar.
 
 ## Season 3
