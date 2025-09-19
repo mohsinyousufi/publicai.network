@@ -24,7 +24,7 @@ Season 3 ran from April 22 to June 10, 2025, with two special sessions later in 
 | Jun 3 | Past and future narratives for tech, with Gideon Lichfield (journalist) and Nils Gilman (historian) | [Video](https://youtu.be/3UVfaegU2vk), [Text](https://docs.google.com/document/d/1vWZQPKtWbtQM0AfJCjsSxNSZsZiSVBJ0f-V146nJ5DM/edit?tab=t.0) |
 | Jun 10 | The near possible future of AI, with Kim Stanley Robinson (author) | [Video](https://youtu.be/qQe7H9CY5Bw), [Text](https://docs.google.com/document/d/1POa6jdSMKxWt-ktxoyxezLKu8PD4GtAxUshSAdbtgU8/edit?tab=t.0) |
 | Jul 11 | ⭐ The [National Deep Inference Fabric](https://ndif.us), with David Bau (Northeastern) | [Video](https://youtu.be/y6DZloFMZT4), [Text](https://docs.google.com/document/d/1gCCvDQN54xjcgXu8X5BHSIqvEIkXrVDPe-UaiQwLO4g/edit?tab=t.0) |
-| Aug 21 | Public strategies for AI Agents, with Dan Zhao (NYU, Microsoft Research) | [Vid](https://www.youtube.com/watch?v=wZ23B9ohMvQ), [Memo](https://docs.google.com/document/d/1eVaVJVkwHw3HIKePBsfTVd_q6h4mawnsnXXql6NHqc8/edit?tab=t.0)
+| Aug 21 | Public strategies for AI Agents, with Dan Zhao (NYU, Microsoft Research) | [Video](https://www.youtube.com/watch?v=wZ23B9ohMvQ), [Memo](https://docs.google.com/document/d/1eVaVJVkwHw3HIKePBsfTVd_q6h4mawnsnXXql6NHqc8/edit?tab=t.0)
 
 Organizers: Joshua Tan (Metagov), Alek Tarkowski (Open Future), B Cavello (Aspen Digital)
 
