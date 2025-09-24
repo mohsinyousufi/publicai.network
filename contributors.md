@@ -388,7 +388,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c5">AK</div>
         <div class="name">Alex Krasodomski</div>
-        <div class="aff">Chatham House</div>
+        <div class="aff">Chatham House, UK</div>
         <div class="details">
           Community Organizer<br/>
           <b>Focus:</b> Digital public infrastructure, partnerships
@@ -398,11 +398,25 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     </div>
 
     <div class="card">
+  <div class="tab">Alexander Schneider</div>
+  <div class="content">
+    <div class="avatar c3">AS</div>
+    <div class="name">Alexander Schneider</div>
+    <div class="aff">Colorado, USA</div>
+    <div class="details">
+      <b>Focus:</b> State capacity + AI alignment
+    </div>
+    <div class="joined">2025</div>
+  </div>
+  </div>
+
+
+    <div class="card">
       <div class="tab">Alek Tarkowski</div>
       <div class="content">
         <div class="avatar c6">AT</div>
         <div class="name">Alek Tarkowski</div>
-        <div class="aff">Open Future</div>
+        <div class="aff">Open Future, EU</div>
         <div class="details">
           Community Organizer<br/>
           <b>Focus:</b>
@@ -412,12 +426,26 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
+ <div class="card">
+  <div class="tab">Antoine McGrath</div>
+  <div class="content">
+    <div class="avatar c3">AM</div>
+    <div class="name">Antoine McGrath</div>
+    <div class="aff">Archive.org, SF</div>
+    <div class="details">
+      <b>Focus:</b> Open data, <a href="https://EOTArchive.org">EOTArchive</a><br/>
+      <b>Vision:</b> Robust open base LLM for global public use
+    </div>
+    <div class="joined">2024</div>
+  </div>
+ </div>
+
 <div class="card">
   <div class="tab">Avani Wildani</div>
   <div class="content">
     <div class="avatar c3">AW</div>
     <div class="name">Avani Wildani</div>
-    <div class="aff">Cloudflare</div>
+    <div class="aff">Cloudflare, SF</div>
     <div class="details">
       <b>Focus:</b> Data pipelines, distributed systems
     </div>
@@ -430,7 +458,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c2">BC</div>
         <div class="name">B Cavello</div>
-        <div class="aff">Aspen Digital</div>
+        <div class="aff">Aspen Digital, DC</div>
         <div class="details">
           Community Organizer 
           <b>Focus:</b>
@@ -453,7 +481,21 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
      </div>
     </div>
 
-<div class="card">
+   <div class="card">
+  <div class="tab">Benjamin de la Peña</div>
+  <div class="content">
+    <div class="avatar c5">BP</div>
+    <div class="name">Benjamin de la Peña</div>
+    <div class="aff">Shared Use Mobility Center, Chicago</div>
+    <div class="details">
+      <b>Focus:</b> Transportation, informality in cities, systems change<br/>
+      <b>Vision:</b> Assistive Intelligence, not Artificial Intelligence
+    </div>
+    <div class="joined">2024</div>
+  </div>
+  </div>
+
+  <div class="card">
   <div class="tab">Bettina Warburg</div>
   <div class="content">
     <div class="avatar c4">BW</div>
@@ -464,14 +506,14 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
     </div>
     <div class="joined">2024</div>
   </div>
-</div>
+  </div>
 
     <div class="card">
      <div class="tab">Bobbi Rakova</div>
      <div class="content">
         <div class="avatar c5">BR</div>
         <div class="name">Bobbi Rakova</div>
-        <div class="aff">Responsible AI</div>
+        <div class="aff">Responsible AI, SF</div>
         <div class="details">
         <b>Focus:</b> Responsible AI, mechanism design
         </div>
@@ -493,12 +535,13 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
+
     <div class="card">
      <div class="tab">Catherine Geanuracos</div>
      <div class="content">
         <div class="avatar c1">CG</div>
         <div class="name">Catherine Geanuracos</div>
-        <div class="aff">Civic Tech</div>
+        <div class="aff">Civic Tech, LA</div>
         <div class="details">
           <b>Focus:</b> Civic technology, speculative fiction
         </div>
@@ -506,12 +549,39 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
      </div>
     </div>
 
+  <div class="card">
+  <div class="tab">Chad Kohalyk</div>
+  <div class="content">
+    <div class="avatar c6">CK</div>
+    <div class="name">Chad Kohalyk</div>
+    <div class="aff">Vancouver, BC</div>
+    <div class="details">
+      <b>Focus:</b> Future of computing, standards, governance<br/>
+      <b>Vision:</b> AI as DPI independent of corp/state interests
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="tab">Dave Buckley</div>
+  <div class="content">
+    <div class="avatar c1">DB</div>
+    <div class="name">Dave Buckley</div>
+    <div class="aff">OpenMined, UK</div>
+    <div class="details">
+      <b>Focus:</b> Data infrastructure, governed access to protected data<br/>
+    </div>
+    <div class="joined">2025</div>
+  </div>
+</div>
+
 <div class="card">
   <div class="tab">David Pham</div>
   <div class="content">
     <div class="avatar c6">DP</div>
     <div class="name">David Pham</div>
-    <div class="aff">Simon Fraser University</div>
+    <div class="aff">Simon Fraser University, Canada</div>
     <div class="details">
       <b>Focus:</b> Data economics, safety
     </div>
@@ -524,7 +594,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c6">DC</div>
         <div class="name">Diane Coyle</div>
-        <div class="aff">University of Cambridge</div>
+        <div class="aff">University of Cambridge, UK</div>
         <div class="details">
           <b>Seminar:</b>
           • <a href="https://archive.org/details/public-ai-coyle">Public policy for tech</a> (<a href="https://docs.google.com/document/d/1n3DcShalIqN0drYMJbbZBANNWbKznAtiT5n3jtsz0tM">summary</a>)<br>
@@ -534,18 +604,6 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
-<div class="card">
-  <div class="tab">Don Means</div>
-  <div class="content">
-    <div class="avatar c5">DM</div>
-    <div class="name">Don Means</div>
-    <div class="aff">Gigabit Libraries Network</div>
-    <div class="details">
-      <b>Focus:</b> Libraries, digital infrastructure
-    </div>
-    <div class="joined">2024</div>
-  </div>
-</div>
 
     <div class="drawer-front">
       <div class="drawer-label">MEMBERS A-D</div>
@@ -555,12 +613,25 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 <!-- F-L -->
   <div class="catalog-column">
 
+<div class="card">
+  <div class="tab">Don Means</div>
+  <div class="content">
+    <div class="avatar c5">DM</div>
+    <div class="name">Don Means</div>
+    <div class="aff">Gigabit Libraries Network, US</div>
+    <div class="details">
+      <b>Focus:</b> Libraries, digital infrastructure
+    </div>
+    <div class="joined">2024</div>
+  </div>
+</div>
+
  <div class="card">
       <div class="tab">Eleanor Tursman</div>
       <div class="content">
         <div class="avatar c3">ET</div>
         <div class="name">Eleanor Tursman</div>
-        <div class="aff">The Aspen Institute</div>
+        <div class="aff">The Aspen Institute, US</div>
         <div class="details">
           <b>Focus:</b>
           Program development, tech policy, digital equity
@@ -569,12 +640,25 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
+ <div class="card">
+  <div class="tab">Ella Shoup</div>
+  <div class="content">
+    <div class="avatar c2">ES</div>
+    <div class="name">Ella Shoup</div>
+    <div class="aff">London, UK</div>
+    <div class="details">
+      <b>Focus:</b> AI ethics, policy, geopolitics
+    </div>
+    <div class="joined">2024</div>
+  </div>
+ </div>
+
 <div class="card">
   <div class="tab">Felix Sieker</div>
   <div class="content">
     <div class="avatar c3">FS</div>
     <div class="name">Felix Sieker</div>
-    <div class="aff">Bertelsmann Foundation</div>
+    <div class="aff">Bertelsmann Foundation, Germany</div>
     <div class="details">
       <b>Focus:</b> Common good, social policy, innovation strategy
     </div>
@@ -587,7 +671,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c2">FD</div>
         <div class="name">Flynn Devine</div>
-        <div class="aff">Boundary Object Studio</div>
+        <div class="aff">Boundary Object Studio, US</div>
         <div class="details">
           <b>Focus:</b>
           Research, sociotechnical systems, participatory design
@@ -617,7 +701,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c1">JT</div>
     <div class="name">Jacob Taylor</div>
-    <div class="aff">Brookings Institution</div>
+    <div class="aff">Brookings Institution, US</div>
     <div class="details">
       <b>Focus:</b> Collective intelligence, sustainable development
     </div>
@@ -630,7 +714,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c3">JH</div>
     <div class="name">Jake Hirsch-Allen</div>
-    <div class="aff">The Dais</div>
+    <div class="aff">The Dais, Canada</div>
     <div class="details">
     <b>Focus:</b> Canadian policy, partnerships
     </div>
@@ -639,11 +723,24 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
 </div>
 
 <div class="card">
+  <div class="tab">Jean Garcia Periche</div>
+  <div class="content">
+    <div class="avatar c2">JG</div>
+    <div class="name">Jean Garcia Periche</div>
+    <div class="aff">Public Intelligence AI</div>
+    <div class="details">
+      <b>Focus:</b> DPI, agentic government, LATAM AI ecosystems<br/>
+    </div>
+    <div class="joined">2025</div>
+  </div>
+</div>
+
+<div class="card">
   <div class="tab">Joseph Low</div>
   <div class="content">
     <div class="avatar c4">JL</div>
     <div class="name">Joseph Low</div>
-    <div class="aff">Product Design</div>
+    <div class="aff">Product Design, Singapore</div>
     <div class="details">
       <b>Focus:</b> Product design
     </div>
@@ -656,7 +753,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c4">JH</div>
     <div class="name">Joshua Hewson</div>
-    <div class="aff">Brown</div>
+    <div class="aff">Brown, US</div>
     <div class="details">
       <b>Focus:</b> Alignment, cognitive enhancement, neuroscience
     </div>
@@ -672,7 +769,8 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="aff">Oxford, Metagov</div>
         <div class="details">
           Community Organizer<br/>
-          <b>Focus:</b> Airbus lead, computational governance, inference whisperer, libraries <br/>
+          <b>Focus:</b> Computational governance, collective intelligence <br/>
+          <b>Projects:</b> Airbus for AI, Inference Utility, Public AI for Libraries
         </div>
         <div class="joined">Founding Member</div>
       </div>
@@ -683,7 +781,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c2">KE</div>
     <div class="name">Katherine Elkins</div>
-    <div class="aff">Interdisciplinary AI</div>
+    <div class="aff">Interdisciplinary AI, US</div>
     <div class="details">
       <b>Focus:</b> Storytelling, interdisciplinary AI
     </div>
@@ -696,7 +794,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c4">KG</div>
     <div class="name">Katherine Gorman</div>
-    <div class="aff">🛜</div>
+    <div class="aff">🛜, US</div>
     <div class="details">
       <b>Focus:</b> Communications, alignment
     </div>
@@ -709,7 +807,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c2">LW</div>
     <div class="name">Larry Williams</div>
-    <div class="aff">UnionBase</div>
+    <div class="aff">UnionBase, DC</div>
     <div class="details">
       <b>Focus:</b> Labor and economics
     </div>
@@ -722,7 +820,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c1">LK</div>
     <div class="name">Lorelei Kelly</div>
-    <div class="aff">Smart Congress</div>
+    <div class="aff">Smart Congress, DC</div>
     <div class="details">
       <b>Focus:</b> Democracy, government modernization
     </div>
@@ -735,7 +833,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c5">LC</div>
     <div class="name">Luca Cominassi</div>
-    <div class="aff">Parti Collective</div>
+    <div class="aff">Parti Collective, Italy</div>
     <div class="details">
     <b>Focus:</b> Airbus for AI
     </div>
@@ -786,7 +884,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c3">MR</div>
     <div class="name">Melissa Regan</div>
-    <div class="aff">Writer</div>
+    <div class="aff">Writer, SF</div>
     <div class="details">
       <b>Focus:</b> Speculative fiction
     </div>
@@ -799,7 +897,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c2">MW</div>
     <div class="name">Meredith Whipple</div>
-    <div class="aff">Public Knowledge</div>
+    <div class="aff">Public Knowledge, US</div>
     <div class="details">
     <b>Focus:</b> Policy, civic technology
     </div>
@@ -812,7 +910,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c6">NB</div>
     <div class="name">Natalie Buda Smith</div>
-    <div class="aff">Library of Congress</div>
+    <div class="aff">Library of Congress, US</div>
     <div class="details">
     <b>Focus:</b> Libraries, government, humans in the loop. (<a href="https://aicenterforgovernment.org/2025/07/03/ai-spotlight-pairing-human-and-artificial-intelligence-at-the-library-of-congress/">interview</a>)
     </div>
@@ -825,7 +923,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c3">NG</div>
         <div class="name">Nick Garcia</div>
-        <div class="aff">Public Knowledge</div>
+        <div class="aff">Public Knowledge, DC</div>
         <div class="details">
           Community Organizer<br/>
           <b>Focus:</b> 
@@ -840,7 +938,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c5">NV</div>
         <div class="name">Nick Vincent</div>
-        <div class="aff">Simon Fraser University</div>
+        <div class="aff">Simon Fraser University, Canada</div>
         <div class="details">
           <b>Focus:</b> Data contribution systems, platform cooperatives, labor, data flywheel 
         </div>
@@ -853,9 +951,23 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c5">NF</div>
     <div class="name">Nicolas Flores-Herr</div>
-    <div class="aff">Fraunhofer</div>
+    <div class="aff">Fraunhofer, Germany</div>
     <div class="details">
       <b>Focus:</b> Conversational AI, training, neuroscience
+    </div>
+    <div class="joined">2025</div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="tab">Oleg Lavrovsky</div>
+  <div class="content">
+    <div class="avatar c4">OL</div>
+    <div class="name">Oleg Lavrovsky</div>
+    <div class="aff">Datalets, Switzerland</div>
+    <div class="details">
+      <b>Focus:</b> Open source/data/hardware/AI/collaboration<br/>
+      <b>Project:</b> Swiss {ai} Weeks, Apertus
     </div>
     <div class="joined">2025</div>
   </div>
@@ -866,7 +978,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c5">PT</div>
         <div class="name">Philiip Tomei</div>
-        <div class="aff">AI Objectives Institute</div>
+        <div class="aff">AI Objectives Institute, UK</div>
         <div class="details">
           <b>Focus:</b> Art and AI, labor and societal impacts <br/>
         </div>
@@ -874,12 +986,25 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
 
+  <div class="card">
+  <div class="tab">Robert Gehorsam</div>
+  <div class="content">
+    <div class="avatar c4">RG</div>
+    <div class="name">Robert Gehorsam</div>
+    <div class="aff">LA/NYC</div>
+    <div class="details">
+      <b>Focus:</b> Democracy innovation, security, climate
+    </div>
+    <div class="joined">2025</div>
+  </div>
+  </div>
+
     <div class="card">
       <div class="tab">Sam Klein</div>
       <div class="content">
         <div class="avatar c4">SK</div>
         <div class="name">Sam Klein</div>
-        <div class="aff">Harvard Berkman Klein Center</div>
+        <div class="aff">Harvard Berkman Klein Center, Boston</div>
         <div class="details">
           Community Organizer
           <b>Focus:</b> Decentralized infrastructure, universal library, <br/> Wiki AI 
@@ -887,6 +1012,20 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
         <div class="joined">Founding Member</div>
       </div>
     </div>
+
+  <div class="card">
+   <div class="tab">Sarah Mackenzie</div>
+   <div class="content">
+    <div class="avatar c1">SM</div>
+    <div class="name">Sarah Mackenzie</div>
+    <div class="aff">Montreal</div>
+    <div class="details">
+      <b>Focus:</b> Arts technologies, AI ethics, data justice<br/>
+      <b>Project:</b> <a href="https://sporobole.org/en/project/artia-project/">ARTIA Project</a>
+    </div>
+    <div class="joined">2025</div>
+  </div>
+  </div> 
 
     <div class="card">
       <div class="tab">Sarah Schwettmann</div>
@@ -901,6 +1040,20 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       </div>
     </div>
     
+    <div class="card">
+  <div class="tab">Thomas Renkert</div>
+  <div class="content">
+    <div class="avatar c5">TR</div>
+    <div class="name">Thomas Renkert</div>
+    <div class="aff">PH Heidelberg, Germany</div>
+    <div class="details">
+      <b>Focus:</b> AI in education, AI sovereignty, educational equity<br/>
+      <b>Project:</b> <a href="https://www.uni-heidelberg.de/en/research/research-profile/fields-of-focus/field-of-focus-iii/research-focus-areas/heidelberg-center-for-digital-humanities-hcdh">ParzivAI</a> (historic languages LLM)
+    </div>
+    <div class="joined">2024</div>
+  </div>
+  </div>
+
     <div class="drawer-front">
       <div class="drawer-label">MEMBERS M-Z</div>
     </div>
@@ -924,7 +1077,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c2">AR</div>
         <div class="name">Aza Raskin</div>
-        <div class="aff">Center for Humane Technology, Earth Species Project</div>
+        <div class="aff">Center for Humane Technology, Earth Species Project, SF</div>
         <div class="details">
           <b>Seminar:</b>
           • <a href="https://www.youtube.com/watch?v=gmtHT2zt-4g">The AI Dilemma</a> (<a href="https://docs.google.com/document/d/1ATwQxTheRL7QOFGSbVO2Di2TCdbEr-GlVKBj3ldAR6U">summary</a>)<br>
@@ -953,7 +1106,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c5">BS</div>
         <div class="name">Bruce Schneier</div>
-        <div class="aff">Harvard</div>
+        <div class="aff">Harvard, Boston</div>
         <div class="details">
           <b>Seminar:</b>
           • <a href="https://archive.org/details/public-ai-schneier">Public options for AI</a> (<a href="https://docs.google.com/document/d/1j0foQVDe0ELYJCrZxOM7ueSiXFVvWr84Hycl2ZdeWFE/edit">summary</a>)<br>
@@ -969,7 +1122,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   <div class="content">
     <div class="avatar c1">DZ</div>
     <div class="name">Dan Zhao</div>
-    <div class="aff">MIT</div>
+    <div class="aff">MIT, Boston</div>
     <div class="details">
       <b>Seminar:</b>
       • <a href="https://www.youtube.com/watch?v=wZ23B9ohMvQ">Agent Strategy</a> (<a href="https://docs.google.com/document/d/1eVaVJVkwHw3HIKePBsfTVd_q6h4mawnsnXXql6NHqc8/edit?tab=t.0#heading=h.2uwjflbphywn">notes</a>) <br/>
@@ -985,7 +1138,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c5">DB</div>
         <div class="name">David Bau</div>
-        <div class="aff">Northeastern</div>
+        <div class="aff">Northeastern, Boston</div>
         <div class="details">
           <b>Seminar:</b>
           • <a href="https://youtu.be/y6DZloFMZT4">The National Deep Inference Fabric</a> (<a href="https://docs.google.com/document/d/1gCCvDQN54xjcgXu8X5BHSIqvEIkXrVDPe-UaiQwLO4g">summary</a>)<br>
@@ -1001,7 +1154,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c2">DE</div>
         <div class="name">David Eaves</div>
-        <div class="aff">UCL</div>
+        <div class="aff">UCL, London</div>
         <div class="details">
           <b>Seminar:</b>
           • <a href="https://archive.org/details/public-ai-eaves">Lessons from digital public infrastructure</a> (<a href="https://docs.google.com/document/d/1kuVO1-7o_RQCMk6USywjrlX-31q3beOAWDChAFvJIAk">summary</a>)<br>
@@ -1017,7 +1170,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c4">DS</div>
         <div class="name">Divya Siddarth</div>
-        <div class="aff">Collective Intelligence Project</div>
+        <div class="aff">Collective Intelligence Project, SF</div>
         <div class="details">
           <b>Seminar:</b>
           • Democratic AI (<a href="https://docs.google.com/document/d/1z0OOK7lwcwXBU59hqwFMR6_Plycdri52n01E89zhNm4">summary</a>)<br>
@@ -1049,7 +1202,7 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
       <div class="content">
         <div class="avatar c4">GS</div>
         <div class="name">Ganesh Sitaraman</div>
-        <div class="aff">Vanderbilt</div>
+        <div class="aff">Vanderbilt, US</div>
         <div class="details">
           <b>Seminar:</b>
           • <a href="https://archive.org/details/public-ai-sitaraman">Industrial organization and antimonopoly</a> (<a href="https://docs.google.com/document/d/1tJMZ0QHDO2fn1R_Ilftpx9nwliBy_CIufxFfPIgAltU">summary</a>)<br>
@@ -1428,8 +1581,8 @@ The **Public AI Network** brings together a diverse coalition of researchers, pr
   
   <div style="text-align:center; color:#999; font-size:14px"> <br/> 
   Metagov · Aspen Digital · Public Knowledge · Chatham House <br/>
-  Code for Science and Society · Berkman Klein Center · Rokefeller Foundation <br/>
-  Mozilla Foundation · Patrick J. McGovern Foundation · Siegel Family · Open Future<br/>
+  Code for Science and Society · Berkman Klein Center · Rockefeller Foundation <br/>
+  Mozilla Foundation · Patrick J. McGovern Foundation · Siegel Family Endowment · Open Future<br/>
   Internet Archive · Library of Congress · Bertelsmann Foundation · Creative Commons 
   </div>
 </div>
