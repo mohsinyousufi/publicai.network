@@ -5,8 +5,7 @@ nav_title: Publications
 permalink: /publications/
 ---
 
-Research, whitepapers, proposals and design documents advancing the vision of Public AI.  <br/>
-If you are writing about Public AI, or know of research or other publications we should include, reach out or make a [pull request](https://github.com/forpublicai/publicai.network/blob/main/publications.md).
+Research, whitepapers, proposals and design documents advancing the vision of Public AI. If you are writing about Public AI, or know of research or other publications we should include, reach out or make a [pull request](https://github.com/forpublicai/publicai.network/blob/main/publications.md).
 
 <style>
 /* Clean table styling */
@@ -119,6 +118,7 @@ table em {
 | Date | Title | Description |
 |------|-----------------|-------------|
 | Aug 10, 2024<br><span class="tag">Whitepaper</span> | [Public AI Whitepaper](https://drive.google.com/file/d/1bcCPdRHyUGFB23--6wn4j1f9mRgdG2QF)<br>*B. Jackson, B Cavello, N. Garcia, J. Tan, S. Klein, A. Krasodomski, F. Devine, E. Tursman.* | Comprehensive framework for developing and deploying AI systems as public infrastructure with democratic oversight. |
+| Aug 14, 2024<br><span class="tag">Talk</span> | [Why this is the Moment for Public AI](https://www.youtube.com/watch?v=uzQDeYV1RJQ)<br>*Larry Lessig* | How to ensure public access to the potential of AI, and avoid mistakes made in building the Web. |
 | May 20, 2025<br><span class="tag">Whitepaper</span> | [Open Future: White Paper on Public AI](https://openfuture.eu/publication/white-paper-on-public-ai/)<br>*Felix Sieker, Alek Tarkowski, Lea Gimpel, and Cailean Osborne.* Open Future Foundation| Policy recommendations for establishing public AI as a cornerstone of digital sovereignty across Europe. |
 | May 2025<br><span class="tag">Policy Brief</span> | [Canada as a Champion for Public AI](https://www.nickmvincent.com/static/canada_publicai.pdf)<br>*Nicholas Vincent, Mark Surman, Jake Hirsch-Allen.* | Canada's unique position and opportunity to lead in developing public AI infrastructure. |
 | Jun 18, 2025<br><span class="tag">Report</span> | [Intelligence in the Public Interest](https://www.aspendigital.org/report/intelligence-in-the-public-interest/)<br>*B Cavello, Eleanor Tursman.* Aspen Digital | Part of a *Community-Aligned AI Benchmarks* workstream on public interest AI. |
