@@ -18,6 +18,7 @@ minima:
   - libraries.md
   - seminar.md
   - contributors.md
+  - publications.md
   - news.md
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: true
